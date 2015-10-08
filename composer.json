@@ -1,15 +1,15 @@
 {
-	"name": "brainboxlabs/brain-socket",
+	"name": "s2kagency/brain-socket",
 	"type": "library",
 	"description": "Websockets for event-driven Laravel apps.",
 	"keywords": ["websockets","laravel","events","ratchet","artisan"],
-	"homepage": "https://github.com/BrainBoxLabs/brain-socket",
+	"homepage": "https://github.com/s2kagenct/brain-socket",
 	"license": "MIT",
 	"authors": [
 		{
-			"name": "Brain Box Labs",
-			"email": "andrew@brainboxmedia.ca",
-			"homepage": "http://www.brainboxmedia.ca/",
+			"name": "Luca Fregoso",
+			"email": "dev@s2kagency.com",
+			"homepage": "http://s2kagency.com",
 			"role": "Developer"
 		}
 	],
